@@ -36,7 +36,7 @@ const Dishes = () => (
             <img 
               src={image} 
               alt={`Dish ${index + 1}`} 
-              className="h-full w-full object-cover opacity-80 hover:opacity-100 transition-opacity duration-300"
+              className="h-full w-full object-cover opacity-90 hover:opacity-100 transition-opacity duration-300"
             />
           </div>
         </SwiperSlide>
